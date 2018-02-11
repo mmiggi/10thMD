@@ -1,0 +1,14 @@
+{
+    "styles": {
+        "src": "src/styles/*.scss",
+        "dest": "build/styles/"
+    },
+    "scripts": {
+        "src": "src/scripts/client.js",
+        "dest": "build/scripts"
+    },
+    "assets": {
+        "src": "src/assets/*",
+        "dest": "build/assets"
+    }
+}
